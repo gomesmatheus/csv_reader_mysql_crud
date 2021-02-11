@@ -9,7 +9,7 @@ username=root
 password=
 ```
 
-### 2 - Rode o script de criação de tabela abaixo:
+### 2 - Rodar o script de criação de tabela abaixo:
 
 ```mysql
 CREATE TABLE jogador (
