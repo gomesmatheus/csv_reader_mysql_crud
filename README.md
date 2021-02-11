@@ -1,6 +1,15 @@
 # csv-reader-mysql-crud
 
-Rode o script de criação de tabela abaixo:
+## Antes de rodar não se esqueça de:
+
+### 1 - Alterar o arquivo `database.properties` com as credências de seu banco de dados:
+```properties
+url=jdbc:mysql://localhost:3306/teste?useTimezone=true&serverTimezone=UTC
+username=root
+password=
+```
+
+### 2 - Rode o script de criação de tabela abaixo:
 
 ```mysql
 CREATE TABLE jogador (
