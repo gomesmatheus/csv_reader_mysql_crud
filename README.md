@@ -2,7 +2,7 @@
 
 ## Antes de rodar não se esqueça de:
 
-### 1 - Alterar o arquivo `database.properties` com as credências de seu banco de dados:
+### 1 - Alterar o arquivo `database.properties` com as credênciais de seu banco de dados:
 ```properties
 url=jdbc:mysql://localhost:3306/teste?useTimezone=true&serverTimezone=UTC
 username=root
